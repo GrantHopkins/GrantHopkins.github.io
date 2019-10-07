@@ -21,6 +21,13 @@ time, mark, audio, video {
 body {
   line-height: 1; }
 
+body {
+  background-color:lightblue;
+  background-size: 50%;
+  background-position: top;
+
+}
+
 ol, ul {
   list-style: none; }
 
